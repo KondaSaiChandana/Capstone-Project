@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="13" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-19T13:32:19 IST" name="Suite" finished-at="2024-06-19T13:37:19 IST" duration-ms="300222">
+    <groups>
+    </groups>
+    <test started-at="2024-06-19T13:32:19 IST" name="Test" finished-at="2024-06-19T13:37:19 IST" duration-ms="300222">
+      <class name="com.CapstoneProject.CapstoneProject.homepage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CapstoneProject.CapstoneProject.homepage@3f1d2e23]" started-at="2024-06-19T13:33:46 IST" name="setup" finished-at="2024-06-19T13:33:50 IST" duration-ms="3979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.homepage@3f1d2e23]" started-at="2024-06-19T13:33:50 IST" name="beforeMethod" finished-at="2024-06-19T13:33:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="navigateJPetStore()[pri:0, instance:com.CapstoneProject.CapstoneProject.homepage@3f1d2e23]" started-at="2024-06-19T13:33:50 IST" name="navigateJPetStore" finished-at="2024-06-19T13:34:53 IST" duration-ms="63034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateJPetStore -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.homepage@3f1d2e23]" started-at="2024-06-19T13:34:53 IST" name="afterMethod" finished-at="2024-06-19T13:34:54 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.CapstoneProject.CapstoneProject.homepage@3f1d2e23]" started-at="2024-06-19T13:34:54 IST" name="close" finished-at="2024-06-19T13:34:55 IST" duration-ms="1035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.CapstoneProject.CapstoneProject.homepage -->
+      <class name="com.CapstoneProject.CapstoneProject.login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:19 IST" name="setup" finished-at="2024-06-19T13:32:34 IST" duration-ms="14875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:34 IST" name="beforeMethod" finished-at="2024-06-19T13:32:34 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testEmptyusernameandpassword()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:34 IST" name="testEmptyusernameandpassword" finished-at="2024-06-19T13:32:43 IST" duration-ms="8347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyusernameandpassword -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:43 IST" name="afterMethod" finished-at="2024-06-19T13:32:43 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testInvalidUsernameandpassword()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:43 IST" name="testInvalidUsernameandpassword" finished-at="2024-06-19T13:32:50 IST" duration-ms="7285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidUsernameandpassword -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:43 IST" name="beforeMethod" finished-at="2024-06-19T13:32:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:50 IST" name="afterMethod" finished-at="2024-06-19T13:32:50 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testLogin()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:50 IST" name="testLogin" finished-at="2024-06-19T13:32:59 IST" duration-ms="8903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:50 IST" name="beforeMethod" finished-at="2024-06-19T13:32:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:59 IST" name="afterMethod" finished-at="2024-06-19T13:32:59 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.CapstoneProject.CapstoneProject.login@2bdd8394]" started-at="2024-06-19T13:32:59 IST" name="close" finished-at="2024-06-19T13:33:01 IST" duration-ms="1765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.CapstoneProject.CapstoneProject.login -->
+      <class name="com.CapstoneProject.CapstoneProject.search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:05 IST" name="setup" finished-at="2024-06-19T13:36:10 IST" duration-ms="4815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:10 IST" name="beforeMethod" finished-at="2024-06-19T13:36:10 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="findsearchbox()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:10 IST" name="findsearchbox" finished-at="2024-06-19T13:36:14 IST" duration-ms="3849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findsearchbox -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:14 IST" name="afterMethod" finished-at="2024-06-19T13:36:14 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="sendkeys()[pri:1, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:14 IST" name="sendkeys" finished-at="2024-06-19T13:36:17 IST" duration-ms="2974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendkeys -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:14 IST" name="beforeMethod" finished-at="2024-06-19T13:36:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="search()[pri:2, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:17 IST" name="search" finished-at="2024-06-19T13:36:31 IST" duration-ms="13761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:17 IST" name="beforeMethod" finished-at="2024-06-19T13:36:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:17 IST" name="afterMethod" finished-at="2024-06-19T13:36:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:31 IST" name="afterMethod" finished-at="2024-06-19T13:36:31 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validsearch()[pri:3, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:31 IST" name="validsearch" finished-at="2024-06-19T13:36:32 IST" duration-ms="1273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validsearch -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:31 IST" name="beforeMethod" finished-at="2024-06-19T13:36:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:32 IST" name="afterMethod" finished-at="2024-06-19T13:36:32 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="emptysearch()[pri:4, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:32 IST" name="emptysearch" finished-at="2024-06-19T13:36:46 IST" duration-ms="13192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptysearch -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:32 IST" name="beforeMethod" finished-at="2024-06-19T13:36:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:46 IST" name="afterMethod" finished-at="2024-06-19T13:36:46 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="invalidsearch()[pri:5, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:46 IST" name="invalidsearch" finished-at="2024-06-19T13:36:57 IST" duration-ms="11417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidsearch -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:46 IST" name="beforeMethod" finished-at="2024-06-19T13:36:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:57 IST" name="afterMethod" finished-at="2024-06-19T13:36:57 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.CapstoneProject.CapstoneProject.search@47c81abf]" started-at="2024-06-19T13:36:57 IST" name="close" finished-at="2024-06-19T13:36:59 IST" duration-ms="1857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.CapstoneProject.CapstoneProject.search -->
+      <class name="com.CapstoneProject.CapstoneProject.register">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CapstoneProject.CapstoneProject.register@7fd7a283]" started-at="2024-06-19T13:33:01 IST" name="setup" finished-at="2024-06-19T13:33:06 IST" duration-ms="4856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.CapstoneProject.CapstoneProject.register@7fd7a283]" started-at="2024-06-19T13:33:07 IST" name="testRegistration" data-provider="registrationData" finished-at="2024-06-19T13:33:23 IST" duration-ms="15982" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[basanagoud123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[basanagoud]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[patil]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[anand@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2576845986]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[fdgfdgd]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Address 2]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Bengalur]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Karnataka]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[FISH]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(text(), 'Your account has been created.')]"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c7482671b535b01d44b041159a0f0309, findElement {using=xpath, value=//p[contains(text(), 'Your account has been created.')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50671/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c7482671b535b01d44b041159a0f0309]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(text(), 'Your account has been created.')]"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c7482671b535b01d44b041159a0f0309, findElement {using=xpath, value=//p[contains(text(), 'Your account has been created.')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50671/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c7482671b535b01d44b041159a0f0309
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at com.CapstoneProject.CapstoneProject.register.testRegistration(register.java:97)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.register@7fd7a283]" started-at="2024-06-19T13:33:07 IST" name="beforeMethod" finished-at="2024-06-19T13:33:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.register@7fd7a283]" started-at="2024-06-19T13:33:23 IST" name="afterMethod" finished-at="2024-06-19T13:33:23 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.CapstoneProject.CapstoneProject.register@7fd7a283]" started-at="2024-06-19T13:33:23 IST" name="testRegistration" data-provider="registrationData" finished-at="2024-06-19T13:33:33 IST" duration-ms="10141" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anandpatil321]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass2@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[anand]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[patil]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Basu@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2547864865]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Address 1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Address 2]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Bengalur]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[karnataka]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[54321.0]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Japanese]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[DOGS]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="MenuContent"]/a[3]"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c7482671b535b01d44b041159a0f0309, findElement {using=xpath, value=//*[@id="MenuContent"]/a[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50671/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c7482671b535b01d44b041159a0f0309]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="MenuContent"]/a[3]"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c7482671b535b01d44b041159a0f0309, findElement {using=xpath, value=//*[@id="MenuContent"]/a[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50671/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c7482671b535b01d44b041159a0f0309
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at com.CapstoneProject.CapstoneProject.register.testRegistration(register.java:54)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.register@7fd7a283]" started-at="2024-06-19T13:33:23 IST" name="beforeMethod" finished-at="2024-06-19T13:33:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.register@7fd7a283]" started-at="2024-06-19T13:33:33 IST" name="afterMethod" finished-at="2024-06-19T13:33:33 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.CapstoneProject.CapstoneProject.register@7fd7a283]" started-at="2024-06-19T13:33:33 IST" name="close" finished-at="2024-06-19T13:33:34 IST" duration-ms="1518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.CapstoneProject.CapstoneProject.register -->
+      <class name="com.CapstoneProject.CapstoneProject.productdetails">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CapstoneProject.CapstoneProject.productdetails@536dbea0]" started-at="2024-06-19T13:34:55 IST" name="setup" finished-at="2024-06-19T13:34:59 IST" duration-ms="4552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.productdetails@536dbea0]" started-at="2024-06-19T13:34:59 IST" name="beforeMethod" finished-at="2024-06-19T13:34:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testProductDetails()[pri:0, instance:com.CapstoneProject.CapstoneProject.productdetails@536dbea0]" started-at="2024-06-19T13:34:59 IST" name="testProductDetails" finished-at="2024-06-19T13:36:04 IST" duration-ms="64994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductDetails -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.productdetails@536dbea0]" started-at="2024-06-19T13:36:04 IST" name="afterMethod" finished-at="2024-06-19T13:36:04 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.CapstoneProject.CapstoneProject.productdetails@536dbea0]" started-at="2024-06-19T13:36:04 IST" name="close" finished-at="2024-06-19T13:36:05 IST" duration-ms="1151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.CapstoneProject.CapstoneProject.productdetails -->
+      <class name="com.CapstoneProject.CapstoneProject.payment">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CapstoneProject.CapstoneProject.payment@21d03963]" started-at="2024-06-19T13:36:59 IST" name="setup" finished-at="2024-06-19T13:37:04 IST" duration-ms="4712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.payment@21d03963]" started-at="2024-06-19T13:37:04 IST" name="beforeMethod" finished-at="2024-06-19T13:37:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testOrderProcess()[pri:0, instance:com.CapstoneProject.CapstoneProject.payment@21d03963]" started-at="2024-06-19T13:37:04 IST" name="testOrderProcess" finished-at="2024-06-19T13:37:18 IST" duration-ms="14234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrderProcess -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.payment@21d03963]" started-at="2024-06-19T13:37:18 IST" name="afterMethod" finished-at="2024-06-19T13:37:18 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.CapstoneProject.CapstoneProject.payment@21d03963]" started-at="2024-06-19T13:37:18 IST" name="close" finished-at="2024-06-19T13:37:19 IST" duration-ms="1046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.CapstoneProject.CapstoneProject.payment -->
+      <class name="cart.CartRunnerWrapper">
+        <test-method signature="runCart()[pri:0, instance:cart.CartRunnerWrapper@776a6d9b]" started-at="2024-06-19T13:36:59 IST" name="runCart" finished-at="2024-06-19T13:36:59 IST" duration-ms="78" status="FAIL">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[org/junit/runner/JUnitCore]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: org/junit/runner/JUnitCore
+at cart.CartRunnerWrapper.runCart(CartRunnerWrapper.java:9)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
+Caused by: java.lang.ClassNotFoundException: org.junit.runner.JUnitCore
+at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:581)
+at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+... 33 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCart -->
+      </class> <!-- cart.CartRunnerWrapper -->
+      <class name="com.CapstoneProject.CapstoneProject.accountdetails">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CapstoneProject.CapstoneProject.accountdetails@78fa769e]" started-at="2024-06-19T13:33:34 IST" name="setup" finished-at="2024-06-19T13:33:40 IST" duration-ms="5100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.accountdetails@78fa769e]" started-at="2024-06-19T13:33:40 IST" name="beforeMethod" finished-at="2024-06-19T13:33:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testLoginAndViewAccountDetails()[pri:0, instance:com.CapstoneProject.CapstoneProject.accountdetails@78fa769e]" started-at="2024-06-19T13:33:40 IST" name="testLoginAndViewAccountDetails" finished-at="2024-06-19T13:33:45 IST" duration-ms="5949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAndViewAccountDetails -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.CapstoneProject.CapstoneProject.accountdetails@78fa769e]" started-at="2024-06-19T13:33:45 IST" name="afterMethod" finished-at="2024-06-19T13:33:46 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.CapstoneProject.CapstoneProject.accountdetails@78fa769e]" started-at="2024-06-19T13:33:46 IST" name="tearDown" finished-at="2024-06-19T13:33:46 IST" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.CapstoneProject.CapstoneProject.accountdetails@78fa769e]" started-at="2024-06-19T13:33:46 IST" name="close" finished-at="2024-06-19T13:33:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.CapstoneProject.CapstoneProject.accountdetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
